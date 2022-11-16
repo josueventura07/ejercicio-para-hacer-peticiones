@@ -22,7 +22,7 @@ app.post('/empresas', (peticion, respuesta) => {
 
 app.patch('/hobbies', (peticion, respuesta) => {
     respuesta.json ([
-        "Baseball", "Baskeckball"
+        "Baseball", "Basketball"
     ])
 })
 
