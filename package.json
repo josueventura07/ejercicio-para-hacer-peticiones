@@ -1,11 +1,10 @@
 {
   "name": "ejercicio-para-hacer-peticiones",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start" : "node app.js",
-    "dev" : "nodemon app.js",
+    "start": "node app.js",
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -16,5 +15,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josueventura07/ejercicio-para-hacer-peticiones.git"
+  },
+  "bugs": {
+    "url": "https://github.com/josueventura07/ejercicio-para-hacer-peticiones/issues"
+  },
+  "homepage": "https://github.com/josueventura07/ejercicio-para-hacer-peticiones#readme",
+  "description": ""
 }
